@@ -1,0 +1,12 @@
+{
+    "quiet": false,
+    "twitch-config": {
+        "identity": {
+            "username": "<YOUR_ACCOUNT_NAME>",
+            "password": "oauth:<USER_ACCESS_TOKEN>"
+        },
+        "channels": [
+            "<YOUR_ACCOUNT_NAME>"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "twitch-chat-logger",
+  "version": "0.0.0",
+  "description": "Logs all chat messages sent in the selected channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fisch37/twitch-chat-log.git"
+  },
+  "author": "Fisch37",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Fisch37/twitch-chat-log/issues"
+  },
+  "homepage": "https://github.com/Fisch37/twitch-chat-log#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "tmi.js": "^1.8.5"
+  }
+}
